@@ -1,5 +1,7 @@
 # Slack Location Command
 
+[![Join the chat at https://gitter.im/v-letmework-io/Lobby](https://badges.gitter.im/v-letmework-io/Lobby.svg)](https://gitter.im/v-letmework-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/v-ges/Lobby](https://badges.gitter.im/v-letmework-io/Lobby.svg)](https://gitter.im/v-letmework-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 `Letmework.io` is a website to rate and detect the amount and quality of company meetings.
